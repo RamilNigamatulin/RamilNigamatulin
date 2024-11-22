@@ -10,8 +10,3 @@
     <img src="https://static.tildacdn.com/tild6266-3366-4933-b934-663835633131/vkontakte.png" style="width: 50px; height: 50px">
   </a>
       
-
-<!---
-RamilNigamatulin/RamilNigamatulin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
